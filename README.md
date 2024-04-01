@@ -1,0 +1,6 @@
+- 👋 Hola, I’m @AngelRamirez31/Alex
+- 👀 I’m interested in learn about new tecnology and create new projects
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on diferent projects to extend my knowledge
+- 📫 How to reach me? Send an email to angelalexander6273@gmail.com
+- ⚡ Fun fact: Im a huge fan of Sport especially Basketball and Soccer
