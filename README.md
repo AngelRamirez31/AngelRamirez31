@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AngelRamirez31/My full name is Angel Alexander Ramirez Tirado
+- 👋 Hi, My full name is Angel Alexander Ramirez Tirado
 - 👀 I’m interested in learn about new tecnology and create new projects
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++,JS, Python.
 - 💞️ I’m looking to collaborate on different projects to extend my knowledge
 - 📫 How to reach me? Send an email to angelalexander6273@gmail.com
 - ⚡ Fun fact: Im a huge fan of Sport especially Basketball and Soccer
