@@ -65,20 +65,11 @@ Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaSc
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=AngelRamirez31&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Ángel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelRamirez31&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br><br>
 
-</td>
-<td>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=dark&hide_border=false)
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
 
 </div>
 
