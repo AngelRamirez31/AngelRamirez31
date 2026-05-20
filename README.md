@@ -11,7 +11,7 @@ I'm a **Computer Science student** passionate about software development, algori
 I enjoy building practical projects that combine programming, problem-solving, hardware, and real-world applications.  
 Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaScript**, **ESP32**, algorithms, and software engineering practices.
 
-<img align="right" width="170px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="170px" src="assets/Imagen_logo.png">
 
 - 🎓 Computer Science student at **CETYS Universidad**
 - 💻 Interested in **Software Development, Artificial Intelligence, Algorithms, and Web Development**
