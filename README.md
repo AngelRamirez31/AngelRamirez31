@@ -65,7 +65,7 @@ Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaSc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/AngelRamirez31)
 
 </div>
 
