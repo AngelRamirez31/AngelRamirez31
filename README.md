@@ -65,11 +65,7 @@ Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaSc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelRamirez31&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
 </div>
 
