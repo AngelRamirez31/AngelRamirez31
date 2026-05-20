@@ -61,11 +61,11 @@ Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaSc
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRamirez31&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AngelRamirez31&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
 
 </div>
 
