@@ -1,3 +1,4 @@
+
 # Hello I'm Ángel Ramírez 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ángel%20Ramírez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angel-ramirez-53a3a730a/)
@@ -11,7 +12,7 @@ I'm a **Computer Science student** passionate about software development, algori
 I enjoy building practical projects that combine programming, problem-solving, hardware, and real-world applications.  
 Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaScript**, **ESP32**, algorithms, and software engineering practices.
 
-<img align="right" width="170px" src="assets/Imagen_logo.png">
+<img align="right" width="170px" src="https://github.com/user-attachments/assets/dd99fc9b-92da-46d2-99cf-75362671eadb" />
 
 - 🎓 Computer Science student at **CETYS Universidad**
 - 💻 Interested in **Software Development, Artificial Intelligence, Algorithms, and Web Development**
