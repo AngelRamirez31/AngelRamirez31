@@ -54,10 +54,10 @@ Currently, I'm focused on improving my skills in **C/C++**, **Python**, **JavaSc
 
 ## 🚀 Projects & Interests
 
-- **Landmine Detection Robot** using ESP32, GPS, sensors, and embedded hardware concepts.
+- **Landmine Detection Robot** using STM32, GPS, sensors, and embedded hardware concepts.
 - **Plagiarism Detector** using the Rabin-Karp algorithm for string matching and document comparison.
 - **Chess AI with MiniMax** using decision trees, recursion, and algorithmic move evaluation.
-- **Posture Awareness Cloth** using sensors and wearable technology concepts for posture feedback.
+- **Posture Awareness Cloth** using ESP32, sensors and wearable technology concepts for posture feedback.
 - **Pepe Pepinillo** using C++ and SFML to build an adventure and platform game with colorful worlds, obstacles, enemies, and interactive gameplay.
 
 ---
